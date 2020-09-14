@@ -33,3 +33,14 @@
 *Courses:*
 - Modern SAP Development Q1-2019
 - SAP Consulting Lab(BI)
+
+## Education
+
+- BSUIR Faculty of Engineering and Economics
+
+## English level
+
+- B2 - writing
+- B2 - speaking
+
+Class with in-depth study of English at school, lyceum, 1 year at university, English courses at the language training center of BSUIR and IT English B1+/B2 courses.
