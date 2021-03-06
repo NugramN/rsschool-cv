@@ -12,7 +12,10 @@
   
 
 ## Personal Summary
->Junior Software Engineer responsible for building analytical solutions depending on customer requirements using different development possibilities of SAP HANA platform with almost year of experience. My aim is to try myself in frontend development, expand existing knowledge base of mine and gain valuable experience.
+>Software Engineer responsible for building analytical solutions depending on
+                    customer requirements using different development possibilities of SAP HANA platform with more than
+                    year of experience. My aim is to expand existing knowledge base, gain valuable experience, change my
+                    key skill and become a part of frontend community.
 
 ## Skills
 
