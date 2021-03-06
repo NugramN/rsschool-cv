@@ -31,7 +31,7 @@
 
 ## Experience
 
-- 1 year as SAP HANA XS/XSA Developer
+- More than year as SAP HANA XS/XSA Developer
 
 *Courses:*
 - Modern SAP Development Q1-2019
