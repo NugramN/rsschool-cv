@@ -1,0 +1,217 @@
+.wrapper {
+    background-color: whitesmoke;
+   background-size: cover;
+    padding-left:30px;
+    padding-right: 30px;
+    padding-top:30px;
+    max-width:1300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background-color:  rgb(15, 155, 113);
+}
+
+img {
+    border-radius: 50%;
+    border: 4px ridge rgb(15, 155, 113);
+}
+
+.logo {
+    width: 18%;
+    float: left;
+    padding: 0px;
+}
+
+header {
+    min-height: 260px;
+}
+
+.name {
+    font-size: 45px;
+    font-family: "Syne", sans-serif;
+}
+
+h1 {
+    margin: 30;
+    text-align: center;
+    font-family: "Syne", sans-serif;
+    font-size: 25px;
+}
+
+h2 {
+    font-family: "Syne", sans-serif;
+    font-size: 22px;
+    margin-bottom: 15px;
+    text-align: center;
+    transform: skew(-20deg);
+    background: rgb(15, 155, 113);
+    width: 300px;
+}
+
+.courses {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    transform: skew(-20deg);
+    background: rgb(15, 155, 113);
+    width: 100px;
+}
+
+h3 {
+    font-family: "Syne", sans-serif;
+    font-size: 20px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style-type: disc;
+    margin: 5 30 5 20;
+    font-size: 17px;
+}
+
+.examples-list {
+    list-style-type: none;
+    font-family: "Syne", sans-serif;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    max-width: 200px;
+    row-gap: 5px;
+    
+}
+.mail {
+    content: url("https://api.iconify.design/foundation:mail.svg?height=24");
+    vertical-align: -0.125em;
+}
+
+.educontacts {
+    max-width: 600px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 30px;
+}
+
+.contacts {
+    font-family: "Syne", sans-serif;
+    font-size: 17px;
+    margin: 0 0 20 0;
+}
+
+.contacts-item {
+    display: flex;
+    flex-direction: row;
+    column-gap: 5px;
+}
+
+.education {
+  display: flex;
+  flex-direction: column;
+    font-family: "Syne", sans-serif;
+    font-size: 17px;
+    margin: 0;
+    
+   
+}
+
+.english,
+.examples {
+    font-family: "Syne", sans-serif;
+    font-size: 17px;
+    padding: 0 0 10 0;
+    text-align: justify;
+    display: flex;
+    flex-direction: column;
+}
+
+a {
+    /* //text-decoration: none; */
+    color:black;
+}
+
+.skills {
+    font-family: "Syne", sans-serif;
+    font-size: 17px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+h1 {
+    display: none;
+}
+
+.education-header {
+    display: flex;
+
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.bsuir {
+    margin-left: 0;
+}
+
+.skill-eng {
+    display: flex;
+    flex-direction: column;
+    row-gap: 30px;
+    max-width: 500px;
+}
+
+.content {
+    display: flex;
+    padding: 20px;
+    margin: auto;
+    justify-content: space-between;
+}
+
+.phone {
+    content: url("https://api.iconify.design/eva:phone-outline.svg?height=24");
+    vertical-align: -0.125em;
+}
+
+.location {
+    content: url("https://api.iconify.design/ic:baseline-location-on.svg?height=24");
+    vertical-align: -0.125em;
+}
+
+.linked {
+    content: url("https://api.iconify.design/ant-design:linkedin-filled.svg?height=24");
+    vertical-align: -0.125em;
+}
+
+.list {
+    list-style-type: disc;
+    margin: 10 30 15 30;
+}
+
+.experience {
+    font-family: "Syne", sans-serif;
+    font-size: 17px;
+}
+
+.edu-text {
+    text-align: justify;
+    margin: 10 30 20 0;
+    font-family: "Syne", sans-serif;
+}
+
+.summary {
+    margin-left: 25%;
+    padding-top: 30px;
+    font-family: "Syne", sans-serif;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.summary-text {
+    font-family: "Syne", sans-serif;
+    text-align: justify;
+}
+
+summary {
+    margin-top: 10px;
+}
